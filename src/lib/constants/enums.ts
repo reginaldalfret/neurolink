@@ -2236,6 +2236,8 @@ export enum XiaomiMimoModels {
 }
 
 export enum XorModels {
+  XOR_LATEST = "xor-latest",
+  XOR_OMNI = "xor-omni",
   XOR_1_1 = "xor-1.1",
 }
 
